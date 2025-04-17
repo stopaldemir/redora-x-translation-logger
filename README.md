@@ -1,0 +1,1 @@
+# redora-x-translation-logger
